@@ -1,0 +1,15 @@
+{
+  "name": "connectivity",
+  "version": "0.0.0",
+  "description": "",
+  "main": "connectivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "~0.10.0"
+  }
+}
